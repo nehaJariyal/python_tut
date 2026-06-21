@@ -21,4 +21,13 @@ def print_cities(cities):
     for city in cities:
         print(city)
 print_cities(citis)
+ 
+ 
+#  positional argument 
+#  keyword arguement 
+# IndentationErrorrarangerangenge
 
+
+help(range)
+
+ 
